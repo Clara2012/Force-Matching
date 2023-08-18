@@ -1,5 +1,0 @@
-Removed Pin From Net: NetName=GND Pin=Honeywell FS-3
-Removed Pin From Net: NetName=GND Pin=INA156-2
-Added Pin To Net: NetName=NetHoneywell FS_3 Pin=Honeywell FS-3
-Added Pin To Net: NetName=NetHoneywell FS_3 Pin=INA156-2
-Added Net: Name=NetHoneywell FS_3
