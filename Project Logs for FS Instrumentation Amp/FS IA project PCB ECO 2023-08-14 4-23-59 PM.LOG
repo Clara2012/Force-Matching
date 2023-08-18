@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=VIN+ Pin=3.3k-1
+Removed Pin From Net: NetName=VIN+ Pin=Honeywell FS-3
+Removed Pin From Net: NetName=VIN+ Pin=INA156-2
+Removed Pin From Net: NetName=VIN+ Pin=INA156-8
+Added Pin To Net: NetName=GND Pin=Honeywell FS-3
+Added Pin To Net: NetName=GND Pin=INA156-2
+Added Pin To Net: NetName=Net3.3k_1 Pin=3.3k-1
+Added Pin To Net: NetName=Net3.3k_1 Pin=INA156-8
+Added Net: Name=Net3.3k_1

@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=3.3k Old Footprint=RES_WR04_WRE New Footprint=RES_WR04_WRE-M
+Added Component: Designator=Output(PCBComponent_1)
+Add Pin To Net: Unknown Pin: Pin Output-1
+Added Member To Class: ClassName=Sheet1 Member=Component Output Component_1
